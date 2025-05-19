@@ -15,6 +15,7 @@ namespace GymManagemement
 {
     public partial class Addmembership : Form
     {
+        //test git
         public Loadmembership NewMembershipData { get; set; }
         //public Action<Membership> OnMembershipAdded;
 
